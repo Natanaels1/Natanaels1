@@ -3,6 +3,10 @@
 
 ### Tecnologias que tenho estudado e utilizado no meu dia a dia
 
+<div>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</div>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natanaels1&layout=compact)](https://github.com/Natanaels1/github-readme-stats)
 
