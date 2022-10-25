@@ -3,7 +3,7 @@
 
 ### Essas são as tecnologias que tenho estudado e utilizado no meu dia a dia
 
-<div style="display: flex; align-items: center; argin-bottom: 100px;">
+<div style="display: flex; align-items: center; margin-bottom: 100px;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
+
+
 
 
 
