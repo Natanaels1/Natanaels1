@@ -1,7 +1,9 @@
 ### Olá! Eu sou o Natanael Souza ✌️
 
 
-### Essas são as tecnologias que tenho estudado e utilizado no meu dia a dia 🚀
+![Natanael GitHub stats](https://github-readme-stats.vercel.app/api?username=Natanaels1&show_icons=true&theme=dracula)
+
+### Essas são as tecnologias que tenho estudado e utilizado no meu dia a dia
 
 <div style="display: flex; align-items: center; margin-bottom: 100px;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -14,10 +16,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 
-
-
-
-
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natanaels1&layout=compact)](https://github.com/Natanaels1/github-readme-stats)
 
